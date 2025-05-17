@@ -7,8 +7,8 @@ book:
   author: "Nooriza Maharani"
   date: "5/17/2025"
   chapters:
-    - intro.qmd
-    - April.qmd
+    - index.qmd
+    - references.qmd
     - May.qmd
     - June.qmd
 
