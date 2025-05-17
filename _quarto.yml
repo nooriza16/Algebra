@@ -4,13 +4,13 @@ project:
 
 book:
   title: "logbook"
-  author: "Norah Jones"
+  author: "Nooriza Maharani"
   date: "5/17/2025"
   chapters:
-    - index.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - April.qmd
+    - May.qmd
+    - June.qmd
 
 bibliography: references.bib
 
