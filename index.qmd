@@ -1,4 +1,10 @@
-# Topic Selection {.unnumbered}
+---
+title: "Topic selection"
+format:
+  html:
+    toc: true    # Enable Table of Contents
+    toc-depth: 2 # Show up to level 2 headings
+---
 
 ![](images/GqN2PywXkAAtJzT.jpg){width="516"}
 
@@ -6,7 +12,7 @@ Although, I am aware of why am I doing what I am doing right now, the little mon
 
 Let's address this, face it bravely.
 
-## **First Topic** 
+## **First Topic**
 
 **Healthcare accessibility in small scattered islands**
 
@@ -62,10 +68,10 @@ The intuition behind the analysis is to investigate whether it has historically 
 
     | '*you determine what the relationship between national/local government and informal settlements has historically been, lest this project pose a risk to the populations being mapped. Even if it's not a question in the country you're studying, it's extremely important to highlight the potential for misuse from an ethical standpoint because those in informal settlements are often vulnerable persons.'*
 
-    In conclusion, should I stick with a topic that, if I pursue it at some point, I’ll have to constantly adjust and tread carefully? I know we can state the boundary and limitation of our research but with my short of understanding limiting something that have a strong correlation is not a limitation but I feel like it is an ignorance in this case. Additionally, concern about publishing maps related to informal settlements near railway areas iremains, as this type of data might be intended to kept private by some institutions and may not be appropriate for published openly.
+    In conclusion, should I stick with a topic that, if I pursue it at some point, I’ll have to constantly adjust and tread carefully? I know we can state the boundary and limitation of our research but with my short of understanding limiting something that have a strong correlation is not a limitation but I feel like it is an ignorance in this case. Additionally, concern about publishing maps related to informal settlements near railway areas remains, as this type of data might be intended to kept private by some institutions and may not be appropriate for published openly.
 
     One more thing, I should work on how to communicate everything well in short amount of time too. It is a big decision but I just emailed my spv with one paragraph not summarizing all the important points. Now, enough with self-doubting, self-blaming and enough with complaining....let's starting afresh in deforestation. If one scenario won't work, unlike informal settlements mapping, deforestation can provide flexibility and abundant perspectives to explore. Now, smile and continue collecting some research memes !
 
-    ![](images/WhatsApp Image 2025-05-18 at 12.04.55.jpeg){width="256"} ![](images/WhatsApp Image 2025-05-18 at 11.43.30 (1)-02.jpeg){width="261"}
+    ![](images/WhatsApp%20Image%202025-05-18%20at%2012.04.55.jpeg){width="256"} ![](images/WhatsApp%20Image%202025-05-18%20at%2011.43.30%20(1)-02.jpeg){width="261"}
 
     *To keep sanity, need a daily dose of this man channel !*

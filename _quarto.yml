@@ -4,13 +4,12 @@ project:
 
 book:
   title: "Logbook"
-  author: "Nooriza Maharani"
   date: "5/17/2025"
   chapters:
     - index.qmd
-    - references.qmd
     - May.qmd
     - June.qmd
+    - references.qmd
 
 bibliography: references.bib
 
