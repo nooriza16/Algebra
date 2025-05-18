@@ -6,7 +6,7 @@ Although, I am aware of why am I doing what I am doing right now, the little mon
 
 Let's address this, face it bravely.
 
-### **First Topic** 
+## **First Topic** 
 
 **Healthcare accessibility in small scattered islands**
 
@@ -14,7 +14,7 @@ Let's address this, face it bravely.
 
 *If I do it manually, it will take time, if I explore using automated OD matrix will also takes time, and this was just the generating data phase. Even applying spatial interaction model which I thought beneficial to clustering these small island is challenging as I am not sure is there any population - data movement between these islands? I was considering capturing these small islands' vulnerability using RS data from literature as there are modelling such as sea level rise, monitoring mangrove areas. However, this is not the vulnerability that I want to explore, I want vulnerability that explain how hard it is just to access basic needs. Later I found journals to map electricity level, and I might use this dataset with NTL imageries (I found article that utilize NTL to understand power outage after Turkey's earthquake earlier this year, by improving the 500m resolution to be \~30 m resolution . I had reached out to him via twitter, he provided me with his tutorial' but then the baseline data is using VIIRS, I checked the dataset in GEE on these small islands. The result is dark, the island size and its population make it challenging to map the electricity level using NTL.*
 
-### **Second Topic**
+## **Second Topic**
 
 **Mapping informal settlement in railway corridor**
 
@@ -28,7 +28,7 @@ The intuition behind the analysis is to investigate whether it has historically 
 
     -   I might not be the only researcher bringing this topic, however as far as I know researches about informal settlement + railway areas mainly focused on their livelihood to cope in such environment, not necessarily in the process they evolved as of now which actually lead to an insight about the government’s ignorance or lack of control during initial development, and specifically the period, causing them to evolve towards today
 
-    ### How to avoid changing topic (again)
+    ## How to avoid changing topic (again)
 
     **First solution : change terminology into slum.**
 
@@ -44,7 +44,7 @@ The intuition behind the analysis is to investigate whether it has historically 
 
     *I almost adopt this, by understanding how and why it evolves to this point, how settlements' position are relative to railway areas then the result would be it becomes more irregular, with less networks could be identified using RS. Won't the term informal be mentioned here?*
 
-    ### CASA Ethical Feedback
+    ## CASA Ethical Feedback
 
     I got feedback from the Department regarding ethic which is the similar concern that I had :
 
@@ -62,8 +62,10 @@ The intuition behind the analysis is to investigate whether it has historically 
 
     | '*you determine what the relationship between national/local government and informal settlements has historically been, lest this project pose a risk to the populations being mapped. Even if it's not a question in the country you're studying, it's extremely important to highlight the potential for misuse from an ethical standpoint because those in informal settlements are often vulnerable persons.'*
 
-    In conclusion, should I stick with a topic that, if I pursue it at some point, I’ll have to constantly adjust and tread carefully? I know we can state the boundary and limitation of our research but with my short of understanding limiting something that have a strong correlation is not a limitation but I feel like it is an ignorance in this case.
+    In conclusion, should I stick with a topic that, if I pursue it at some point, I’ll have to constantly adjust and tread carefully? I know we can state the boundary and limitation of our research but with my short of understanding limiting something that have a strong correlation is not a limitation but I feel like it is an ignorance in this case. Additionally, concern about publishing maps related to informal settlements near railway areas iremains, as this type of data might be intended to kept private by some institutions and may not be appropriate for published openly.
 
-    Enough with self-doubting and self-blaming....let's starting afresh in deforestation. If one scenario won't work, unlike informal settlements mapping, deforestation can provide flexibility and abundant perspectives to explore. Now, smile and continue collecting some research memes !
+    One more thing, I should work on how to communicate everything well in short amount of time too. It is a big decision but I just emailed my spv with one paragraph not summarizing all the important points. Now, enough with self-doubting, self-blaming and enough with complaining....let's starting afresh in deforestation. If one scenario won't work, unlike informal settlements mapping, deforestation can provide flexibility and abundant perspectives to explore. Now, smile and continue collecting some research memes !
 
-    ![](images/WhatsApp Image 2025-05-18 at 11.43.30 (1)-01.jpeg){width="397"}
+    ![](images/WhatsApp Image 2025-05-18 at 12.04.55.jpeg){width="256"} ![](images/WhatsApp Image 2025-05-18 at 11.43.30 (1)-02.jpeg){width="261"}
+
+    *To keep sanity, need a daily dose of this man channel !*
