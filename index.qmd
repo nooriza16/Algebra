@@ -3,7 +3,7 @@ title: "Topic selection"
 format:
   html:
     toc: true    # Enable Table of Contents
-    toc-depth: 2 # Show up to level 2 headings
+    toc-depth: 4 # Show up to level 2 headings
 ---
 
 ![](images/GqN2PywXkAAtJzT.jpg){width="516"}
